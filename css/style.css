@@ -1,0 +1,107 @@
+body { background: #e6e9f0;}
+
+.main { 
+    width: 960px;
+    margin:auto;
+    margin-top: 0; }
+header {
+    margin-top: 0;
+}
+ul li { list-style:none;}
+
+h1,h2,h3 { 
+    color: #431c5d;
+    text-align: center;
+    margin: auto;
+    padding: 0.5em;
+    }
+
+.contact-up {
+    background: #bccbde;
+    }
+    .contact-up li {
+        font-size: 0.9em;
+        display: inline-block;
+        padding: 0.5em;
+        margin: auto;
+        }
+
+.logo-h1 {
+    font-family: 'Righteous', cursive, sans-serif;
+    font-weight: 500;
+    font-size: 2.2em;
+    text-align: left;
+    padding: 0;
+    margin-bottom: 0;
+}
+.logo-img {
+    float: left;
+}
+
+.slogan {
+    margin-top: 0;
+    padding-top: 0;
+    font-family: cursive;
+    font-style: italic;
+    color: #cdd422;
+}
+nav { 
+    width: 100%;
+    margin: auto;
+    padding-bottom: 1.5em;
+    }
+
+.menu a {
+    width: 5em;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+	color: #e05915;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px;
+    border-bottom: 3px solid #431c5d;
+}
+.menu a:hover {
+    background: #bccbde;
+    border-bottom: 3px solid #e05915;
+}
+
+.galeria {
+    width: 100%;
+    display: block;
+    background: #c2dde6;
+}
+.ayudar {
+    width: 100%;
+    background: gray;
+    background-repeat:no-repeat;
+
+}
+
+
+
+footer {
+    background: #431c5d;
+}
+.menu-pie {
+    float: left;
+}
+.boletin {
+    width: 200px;
+}
+/*
+
+#bccbde
+#c2dde6
+#e6e9f0
+#431c5d
+#e05915
+#cdd422
+http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html
+http://sistemarte.github.io/Sitio-web-FPC/index.html
+
+eli
+http://www.materialpalette.com/green/light-blue
+*/
